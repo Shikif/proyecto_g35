@@ -1,0 +1,37 @@
+*   [33mcommit 06824cf81b50d879e29f3223298b9578cb7a5761[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: c2dec96 2575140
+[31m|[m [32m|[m Author: Jose Pablo Nordenflycht <diabhlo@gmail.com>
+[31m|[m [32m|[m Date:   Fri Aug 14 10:40:16 2020 -0400
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'dev'
+[31m|[m [32m|[m     add style css
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 2575140cd99aa55ddcb16ac2b81b424854268456[m[33m ([m[1;32mdev[m[33m)[m
+[31m|[m [32m|[m Author: Jose Pablo Nordenflycht <diabhlo@gmail.com>
+[31m|[m [32m|[m Date:   Fri Aug 14 10:37:05 2020 -0400
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     add styles
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit c2dec9615d4ba16354407049a2c81f625dd148ab[m
+[32m|[m [32m|[m Author: Jose Pablo Nordenflycht <diabhlo@gmail.com>
+[32m|[m [32m|[m Date:   Fri Aug 14 10:39:44 2020 -0400
+[32m|[m [32m|[m 
+[32m|[m [32m|[m     ad d p
+[32m|[m [32m|[m 
+* [32m|[m [33mcommit b791883d5d1214a6655c73fdc6e0aa6beba81ad2[m
+[32m|[m[32m/[m  Author: Jose Pablo Nordenflycht <diabhlo@gmail.com>
+[32m|[m   Date:   Fri Aug 14 10:38:17 2020 -0400
+[32m|[m   
+[32m|[m       add js
+[32m|[m 
+* [33mcommit bd99684a66eef1ef6806a29fa358fb5e5539f57a[m
+[32m|[m Author: Jose Pablo Nordenflycht <diabhlo@gmail.com>
+[32m|[m Date:   Fri Aug 14 10:22:34 2020 -0400
+[32m|[m 
+[32m|[m     basic web page
+[32m|[m 
+* [33mcommit 08e7ff7cc94393ebd1603351b0d58e2f22560e7c[m
+  Author: Jose Pablo Nordenflycht <diabhlo@gmail.com>
+  Date:   Fri Aug 14 10:17:40 2020 -0400
+  
+      initial commit
